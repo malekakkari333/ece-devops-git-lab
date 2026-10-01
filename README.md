@@ -1,1 +1,7 @@
-# ece-devops-git-lab
+# ECE DevOps Git Lab
+
+This is my Git lab.
+
+## Development
+
+This project uses Git branches and GitHub.
