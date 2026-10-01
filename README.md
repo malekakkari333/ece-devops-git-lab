@@ -5,6 +5,3 @@ This is my Git lab.
 ## Development
 
 This project uses Git branches and GitHub.
-## Feature
-
-Added by Malek.
